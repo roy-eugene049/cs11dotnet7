@@ -1,0 +1,14 @@
+C:\cs11dotnet7\Chapter01\AboutMyEnvironment\bin\Debug\net6.0\AboutMyEnvironment.exe
+C:\cs11dotnet7\Chapter01\AboutMyEnvironment\bin\Debug\net6.0\AboutMyEnvironment.deps.json
+C:\cs11dotnet7\Chapter01\AboutMyEnvironment\bin\Debug\net6.0\AboutMyEnvironment.runtimeconfig.json
+C:\cs11dotnet7\Chapter01\AboutMyEnvironment\bin\Debug\net6.0\AboutMyEnvironment.dll
+C:\cs11dotnet7\Chapter01\AboutMyEnvironment\bin\Debug\net6.0\AboutMyEnvironment.pdb
+C:\cs11dotnet7\Chapter01\AboutMyEnvironment\obj\Debug\net6.0\AboutMyEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs11dotnet7\Chapter01\AboutMyEnvironment\obj\Debug\net6.0\AboutMyEnvironment.AssemblyInfoInputs.cache
+C:\cs11dotnet7\Chapter01\AboutMyEnvironment\obj\Debug\net6.0\AboutMyEnvironment.AssemblyInfo.cs
+C:\cs11dotnet7\Chapter01\AboutMyEnvironment\obj\Debug\net6.0\AboutMyEnvironment.csproj.CoreCompileInputs.cache
+C:\cs11dotnet7\Chapter01\AboutMyEnvironment\obj\Debug\net6.0\AboutMyEnvironment.dll
+C:\cs11dotnet7\Chapter01\AboutMyEnvironment\obj\Debug\net6.0\refint\AboutMyEnvironment.dll
+C:\cs11dotnet7\Chapter01\AboutMyEnvironment\obj\Debug\net6.0\AboutMyEnvironment.pdb
+C:\cs11dotnet7\Chapter01\AboutMyEnvironment\obj\Debug\net6.0\AboutMyEnvironment.genruntimeconfig.cache
+C:\cs11dotnet7\Chapter01\AboutMyEnvironment\obj\Debug\net6.0\ref\AboutMyEnvironment.dll
