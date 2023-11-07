@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\cs11dotnet7\\Chapter02\\Vocabulary\\Vocabulary.csproj",
+      "projectUniqueName": "C:\\Users\\royod\\cs11dotnet7\\Chapter02\\Vocabulary\\Vocabulary.csproj",
       "projectName": "Vocabulary",
-      "projectPath": "C:\\cs11dotnet7\\Chapter02\\Vocabulary\\Vocabulary.csproj",
+      "projectPath": "C:\\Users\\royod\\cs11dotnet7\\Chapter02\\Vocabulary\\Vocabulary.csproj",
       "packagesPath": "C:\\Users\\royod\\.nuget\\packages\\",
-      "outputPath": "C:\\cs11dotnet7\\Chapter02\\Vocabulary\\obj\\",
+      "outputPath": "C:\\Users\\royod\\cs11dotnet7\\Chapter02\\Vocabulary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\royod\\AppData\\Roaming\\NuGet\\NuGet.Config",

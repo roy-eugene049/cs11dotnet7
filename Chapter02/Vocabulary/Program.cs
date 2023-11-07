@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-
+//This program uses a technique called reflection
 
 // declare some unused variables using types
 // in additional assemblies
